@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="186"/>
+  <advance width="224"/>
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="186" y="613"/>
-      <point x="203" y="630"/>
-      <point x="203" y="645" type="curve" smooth="yes"/>
-      <point x="203" y="661"/>
-      <point x="192" y="673"/>
-      <point x="176" y="673" type="curve" smooth="yes"/>
-      <point x="158" y="673"/>
-      <point x="143" y="655"/>
-      <point x="143" y="639" type="curve" smooth="yes"/>
-      <point x="143" y="624"/>
-      <point x="154" y="613"/>
-      <point x="170" y="613" type="curve" smooth="yes"/>
+      <point x="189" y="613" type="curve" smooth="yes"/>
+      <point x="205" y="613"/>
+      <point x="222" y="630"/>
+      <point x="222" y="645" type="curve" smooth="yes"/>
+      <point x="222" y="661"/>
+      <point x="211" y="673"/>
+      <point x="195" y="673" type="curve" smooth="yes"/>
+      <point x="177" y="673"/>
+      <point x="162" y="655"/>
+      <point x="162" y="639" type="curve" smooth="yes"/>
+      <point x="162" y="624"/>
+      <point x="173" y="613"/>
     </contour>
     <contour>
-      <point x="186" y="704" type="move" name="top"/>
+      <point x="166" y="517" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="39" y="0" type="move" name="bottom"/>
+      <point x="58" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="147" y="517" type="move" name="_top"/>
+      <point x="205" y="704" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 00:57:53 +0000</string>
+      <string>2018-05-28 05:47:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

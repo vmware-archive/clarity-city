@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="328"/>
+  <advance width="337"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="228" y="274" type="line"/>
-      <point x="356" y="687" type="line"/>
-      <point x="141" y="687" type="line"/>
-      <point x="98" y="274" type="line"/>
+      <point x="105" y="274" type="line"/>
+      <point x="235" y="274" type="line"/>
+      <point x="363" y="687" type="line"/>
+      <point x="148" y="687" type="line"/>
     </contour>
-    <component base="period" xOffset="7"/>
+    <component base="period" xOffset="-4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 07:11:33 +0000</string>
+      <string>2018-09-01 04:08:58 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

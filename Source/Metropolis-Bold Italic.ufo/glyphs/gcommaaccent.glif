@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent" format="1">
-  <advance width="600"/>
+  <advance width="657"/>
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="commaaccentcomb" xOffset="504" yOffset="551" xScale="-1" yScale="-1"/>
+    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="440" yOffset="551"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:46:35 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>g</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
@@ -21,6 +27,10 @@
           <string>commaaccentcomb</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-01 04:07:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

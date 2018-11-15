@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="609"/>
+  <advance width="622"/>
   <unicode hex="00FE"/>
   <outline>
-    <contour>
-      <point x="119" y="-172" type="line"/>
-      <point x="119" y="699" type="line"/>
-      <point x="83" y="699" type="line"/>
-      <point x="83" y="-172" type="line"/>
-    </contour>
-    <component base="lowercase_loop" xOffset="-6"/>
+    <component base="thorn_stem"/>
+    <component base="lowercase_loop" xOffset="35"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>lowercase_loop</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-03 02:26:49 +0000</string>
+      <string>2018-09-01 04:14:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

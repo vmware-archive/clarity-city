@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="463"/>
+  <advance width="442"/>
   <unicode hex="0072"/>
   <outline>
+    <component base="idotless"/>
+    <component base="lowercase_r_shoulder" xOffset="182"/>
     <contour>
-      <point x="254" y="305"/>
-      <point x="333" y="369"/>
-      <point x="435" y="369" type="curve"/>
-      <point x="456" y="529" type="line"/>
-      <point x="342" y="529"/>
-      <point x="247" y="433"/>
-      <point x="217" y="287" type="curve"/>
-      <point x="234" y="211" type="line"/>
+      <point x="168" y="0" type="move" name="bottom"/>
     </contour>
-    <component base="idotless" xOffset="-4"/>
     <contour>
-      <point x="282" y="517" type="move" name="top"/>
+      <point x="273" y="517" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-04 22:45:51 +0000</string>
+      <string>2018-09-01 04:07:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

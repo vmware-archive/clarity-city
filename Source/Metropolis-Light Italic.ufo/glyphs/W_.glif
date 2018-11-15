@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="1033"/>
+  <advance width="1013"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="252" y="0" type="line"/>
-      <point x="594" y="629" type="line"/>
-      <point x="673" y="0" type="line"/>
-      <point x="712" y="0" type="line"/>
-      <point x="1085" y="687" type="line"/>
-      <point x="1045" y="687" type="line"/>
-      <point x="704" y="58" type="line"/>
-      <point x="624" y="687" type="line"/>
-      <point x="585" y="687" type="line"/>
-      <point x="244" y="58" type="line"/>
-      <point x="164" y="687" type="line"/>
-      <point x="126" y="687" type="line"/>
-      <point x="213" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="584" y="629" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="702" y="0" type="line"/>
+      <point x="1075" y="687" type="line"/>
+      <point x="1035" y="687" type="line"/>
+      <point x="694" y="58" type="line"/>
+      <point x="614" y="687" type="line"/>
+      <point x="575" y="687" type="line"/>
+      <point x="234" y="58" type="line"/>
+      <point x="154" y="687" type="line"/>
+      <point x="116" y="687" type="line"/>
     </contour>
     <contour>
-      <point x="605" y="687" type="move" name="top"/>
+      <point x="595" y="687" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 09:31:10 +0000</string>
+      <string>2018-05-28 05:40:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn_stem" format="1">
+  <advance width="240"/>
+  <outline>
+    <contour>
+      <point x="102" y="-172" type="line"/>
+      <point x="138" y="-172" type="line"/>
+      <point x="138" y="699" type="line"/>
+      <point x="102" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="259" type="move" name="loop_right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-01 02:28:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

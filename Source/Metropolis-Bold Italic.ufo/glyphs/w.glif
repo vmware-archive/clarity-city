@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="847"/>
+  <advance width="854"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="302" y="0" type="line"/>
-      <point x="427" y="266" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="611" y="0" type="line"/>
-      <point x="895" y="517" type="line"/>
-      <point x="706" y="517" type="line"/>
-      <point x="575" y="259" type="line"/>
-      <point x="554" y="517" type="line"/>
-      <point x="396" y="517" type="line"/>
-      <point x="264" y="259" type="line"/>
-      <point x="242" y="517" type="line"/>
-      <point x="61" y="517" type="line"/>
-      <point x="131" y="0" type="line"/>
+      <point x="134" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="430" y="266" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="898" y="517" type="line"/>
+      <point x="709" y="517" type="line"/>
+      <point x="578" y="259" type="line"/>
+      <point x="557" y="517" type="line"/>
+      <point x="399" y="517" type="line"/>
+      <point x="267" y="259" type="line"/>
+      <point x="245" y="517" type="line"/>
+      <point x="64" y="517" type="line"/>
     </contour>
     <contour>
-      <point x="475" y="517" type="move" name="top"/>
+      <point x="478" y="517" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:51:29 +0000</string>
+      <string>2018-05-28 05:40:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

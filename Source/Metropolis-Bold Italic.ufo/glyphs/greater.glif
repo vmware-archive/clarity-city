@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="599"/>
+  <advance width="601"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="546" y="267" type="line"/>
-      <point x="576" y="420" type="line"/>
-      <point x="140" y="609" type="line"/>
-      <point x="111" y="459" type="line"/>
-      <point x="417" y="343" type="line"/>
-      <point x="62" y="229" type="line"/>
-      <point x="32" y="78" type="line"/>
+      <point x="34" y="78" type="line"/>
+      <point x="548" y="267" type="line"/>
+      <point x="578" y="420" type="line"/>
+      <point x="142" y="609" type="line"/>
+      <point x="113" y="459" type="line"/>
+      <point x="419" y="343" type="line"/>
+      <point x="64" y="229" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:34:44 +0000</string>
+      <string>2018-06-01 03:37:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflex.alt" format="1">
-  <advance width="555"/>
+  <advance width="553"/>
   <outline>
     <component base="a.alt"/>
-    <component base="circumflex" xOffset="98"/>
+    <component base="circumflex" xOffset="92"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:49:00 +0000</string>
+      <string>2018-09-01 04:07:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

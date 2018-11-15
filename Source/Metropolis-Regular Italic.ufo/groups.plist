@@ -30,7 +30,19 @@
 	<key>@MMK_L_D</key>
 	<array>
 		<string>D</string>
+		<string>Eth</string>
 		<string>Dcaron</string>
+		<string>Dcroat</string>
+		<string>O</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Ohungarumlaut</string>
+		<string>Omacron</string>
+		<string>Oslash</string>
+		<string>Otilde</string>
+		<string>Q</string>
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
@@ -61,9 +73,6 @@
 	<key>@MMK_L_H</key>
 	<array>
 		<string>H</string>
-	</array>
-	<key>@MMK_L_I</key>
-	<array>
 		<string>I</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
@@ -72,51 +81,41 @@
 		<string>Igrave</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
-	</array>
-	<key>@MMK_L_J</key>
-	<array>
-		<string>J</string>
-	</array>
-	<key>@MMK_L_K</key>
-	<array>
-		<string>K</string>
-	</array>
-	<key>@MMK_L_L</key>
-	<array>
-		<string>L</string>
-		<string>Lacute</string>
-		<string>Lcaron</string>
-	</array>
-	<key>@MMK_L_M</key>
-	<array>
 		<string>M</string>
-	</array>
-	<key>@MMK_L_N</key>
-	<array>
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
 		<string>Ncommaaccent</string>
 		<string>Ntilde</string>
 	</array>
-	<key>@MMK_L_O</key>
+	<key>@MMK_L_J</key>
 	<array>
-		<string>O</string>
-		<string>Oacute</string>
-		<string>Ocircumflex</string>
-		<string>Odieresis</string>
-		<string>Ograve</string>
-		<string>Omacron</string>
-		<string>Oslash</string>
-		<string>Otilde</string>
+		<string>J</string>
+		<string>U</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Ugrave</string>
+		<string>Uhungarumlaut</string>
+		<string>Umacron</string>
+		<string>Uogonek</string>
+		<string>Uring</string>
+	</array>
+	<key>@MMK_L_K</key>
+	<array>
+		<string>K</string>
+		<string>Kcommaaccent</string>
+	</array>
+	<key>@MMK_L_L</key>
+	<array>
+		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
+		<string>Lslash</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
 		<string>P</string>
-	</array>
-	<key>@MMK_L_Q</key>
-	<array>
-		<string>Q</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
@@ -138,17 +137,9 @@
 		<string>Tcaron</string>
 		<string>Tcedilla</string>
 	</array>
-	<key>@MMK_L_U</key>
+	<key>@MMK_L_Thorn</key>
 	<array>
-		<string>U</string>
-		<string>Uacute</string>
-		<string>Ucircumflex</string>
-		<string>Udieresis</string>
-		<string>Ugrave</string>
-		<string>Uhungarumlaut</string>
-		<string>Umacron</string>
-		<string>Uogonek</string>
-		<string>Uring</string>
+		<string>Thorn</string>
 	</array>
 	<key>@MMK_L_V</key>
 	<array>
@@ -387,22 +378,10 @@
 	<key>@MMK_R_B</key>
 	<array>
 		<string>B</string>
-		<string>germandbls</string>
-	</array>
-	<key>@MMK_R_C</key>
-	<array>
-		<string>C</string>
-		<string>Cacute</string>
-		<string>Ccaron</string>
-		<string>Ccedilla</string>
-	</array>
-	<key>@MMK_R_D</key>
-	<array>
 		<string>D</string>
+		<string>Eth</string>
 		<string>Dcaron</string>
-	</array>
-	<key>@MMK_R_E</key>
-	<array>
+		<string>Dcroat</string>
 		<string>E</string>
 		<string>Eacute</string>
 		<string>Ecaron</string>
@@ -414,23 +393,8 @@
 		<string>Emacron</string>
 		<string>Eogonek</string>
 		<string>Etilde</string>
-	</array>
-	<key>@MMK_R_F</key>
-	<array>
 		<string>F</string>
-	</array>
-	<key>@MMK_R_G</key>
-	<array>
-		<string>G</string>
-		<string>Gbreve</string>
-		<string>Gcommaaccent</string>
-	</array>
-	<key>@MMK_R_H</key>
-	<array>
 		<string>H</string>
-	</array>
-	<key>@MMK_R_I</key>
-	<array>
 		<string>I</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
@@ -439,59 +403,50 @@
 		<string>Igrave</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
-	</array>
-	<key>@MMK_R_J</key>
-	<array>
-		<string>J</string>
-	</array>
-	<key>@MMK_R_K</key>
-	<array>
 		<string>K</string>
-	</array>
-	<key>@MMK_R_L</key>
-	<array>
+		<string>Kcommaaccent</string>
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
-	</array>
-	<key>@MMK_R_M</key>
-	<array>
+		<string>Lslash</string>
 		<string>M</string>
-	</array>
-	<key>@MMK_R_N</key>
-	<array>
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
 		<string>Ncommaaccent</string>
 		<string>Ntilde</string>
+		<string>P</string>
+		<string>Thorn</string>
+		<string>R</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
+		<string>Rcommaaccent</string>
+		<string>germandbls</string>
 	</array>
-	<key>@MMK_R_O</key>
+	<key>@MMK_R_C</key>
 	<array>
+		<string>C</string>
+		<string>Cacute</string>
+		<string>Ccaron</string>
+		<string>Ccedilla</string>
+		<string>G</string>
+		<string>Gbreve</string>
+		<string>Gcommaaccent</string>
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
+		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
 		<string>Oslash</string>
 		<string>Otilde</string>
 		<string>OE</string>
-	</array>
-	<key>@MMK_R_P</key>
-	<array>
-		<string>P</string>
-	</array>
-	<key>@MMK_R_Q</key>
-	<array>
 		<string>Q</string>
 	</array>
-	<key>@MMK_R_R</key>
+	<key>@MMK_R_J</key>
 	<array>
-		<string>R</string>
-		<string>Racute</string>
-		<string>Rcaron</string>
-		<string>Rcommaaccent</string>
+		<string>J</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
@@ -633,12 +588,9 @@
 		<string>j</string>
 		<string>jdotless</string>
 	</array>
-	<key>@MMK_R_k</key>
-	<array>
-		<string>k</string>
-	</array>
 	<key>@MMK_R_l</key>
 	<array>
+		<string>k</string>
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>

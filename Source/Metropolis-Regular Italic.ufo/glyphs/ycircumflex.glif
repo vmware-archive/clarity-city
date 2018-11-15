@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ycircumflex" format="1">
-  <advance width="593"/>
+  <advance width="536"/>
   <unicode hex="0177"/>
   <outline>
     <component base="y"/>
-    <component base="circumflex" xOffset="93"/>
+    <component base="circumflex" xOffset="97"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:48:12 +0000</string>
+      <string>2018-11-14 14:20:33 +0000</string>
     </dict>
   </lib>
 </glyph>

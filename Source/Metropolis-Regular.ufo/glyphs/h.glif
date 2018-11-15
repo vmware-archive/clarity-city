@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="592"/>
+  <advance width="601"/>
   <unicode hex="0068"/>
   <outline>
-    <component base="lowercase_nh_shoulder"/>
-    <component base="ascender" xOffset="-6"/>
+    <component base="ascender"/>
+    <component base="lowercase_nh_shoulder" xOffset="128"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ascender</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-04 22:45:49 +0000</string>
+      <string>2018-09-01 04:14:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="314"/>
+  <advance width="331"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="comma" xOffset="3"/>
-    <component base="period" xOffset="87" yOffset="415"/>
+    <component base="comma" xOffset="1"/>
+    <component base="period" xOffset="75" yOffset="415"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:02:15 +0000</string>
+      <string>2018-09-01 04:08:58 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

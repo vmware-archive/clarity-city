@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>687</integer>
 	<key>copyright</key>
-	<string>Copyright © 2016 by Chris Simpson.</string>
+	<string>Copyright © 2016-2018 by Chris Simpson</string>
 	<key>descender</key>
 	<integer>-205</integer>
 	<key>familyName</key>
@@ -15,7 +15,7 @@
 	<key>italicAngle</key>
 	<real>-11.75</real>
 	<key>openTypeHeadCreated</key>
-	<string>2016/07/30 01:55:50</string>
+	<string>2018/11/14 10:58:12</string>
 	<key>openTypeHheaAscender</key>
 	<integer>795</integer>
 	<key>openTypeHheaDescender</key>
@@ -25,9 +25,9 @@
 	<key>openTypeNameDesignerURL</key>
 	<string>https://github.com/chrismsimpson/Metropolis</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Victory One Media Pty Ltd</string>
+	<string>Chris Simpson</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>http://victoryonemedia.com</string>
+	<string>https://github.com/chrismsimpson</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Metropolis</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -39,7 +39,7 @@
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>250</integer>
+	<integer>100</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -87,7 +87,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>517</integer>
 </dict>

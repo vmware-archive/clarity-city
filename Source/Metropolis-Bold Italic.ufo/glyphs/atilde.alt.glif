@@ -3,12 +3,12 @@
   <advance width="587"/>
   <outline>
     <component base="a.alt"/>
-    <component base="tilde" xOffset="85"/>
+    <component base="tilde" xOffset="50"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:49:00 +0000</string>
+      <string>2018-11-14 14:20:33 +0000</string>
     </dict>
   </lib>
 </glyph>

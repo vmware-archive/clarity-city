@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="546"/>
+  <advance width="552"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
+      <point x="-18" y="0" type="line"/>
       <point x="462" y="0" type="line"/>
       <point x="496" y="160" type="line"/>
       <point x="266" y="160" type="line"/>
@@ -13,7 +14,6 @@
       <point x="63" y="357" type="line"/>
       <point x="283" y="357" type="line"/>
       <point x="7" y="133" type="line"/>
-      <point x="-18" y="0" type="line"/>
     </contour>
     <contour>
       <point x="335" y="517" type="move" name="top"/>
@@ -22,7 +22,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:48:18 +0000</string>
+      <string>2018-05-28 05:40:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

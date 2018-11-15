@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lowercase_loop" format="1">
-  <advance width="610"/>
+  <advance width="554"/>
   <outline>
     <contour>
-      <point x="422" y="-12"/>
-      <point x="562" y="142"/>
-      <point x="562" y="324" type="curve" smooth="yes"/>
-      <point x="562" y="435"/>
-      <point x="473" y="529"/>
-      <point x="368" y="529" type="curve" smooth="yes"/>
-      <point x="213" y="529"/>
-      <point x="83" y="373"/>
-      <point x="83" y="187" type="curve" smooth="yes"/>
-      <point x="83" y="79"/>
-      <point x="162" y="-12"/>
-      <point x="256" y="-12" type="curve" smooth="yes"/>
+      <point x="212" y="-12" type="curve" smooth="yes"/>
+      <point x="378" y="-12"/>
+      <point x="518" y="142"/>
+      <point x="518" y="324" type="curve" smooth="yes"/>
+      <point x="518" y="435"/>
+      <point x="429" y="529"/>
+      <point x="324" y="529" type="curve" smooth="yes"/>
+      <point x="169" y="529"/>
+      <point x="39" y="373"/>
+      <point x="39" y="187" type="curve" smooth="yes"/>
+      <point x="39" y="79"/>
+      <point x="118" y="-12"/>
     </contour>
     <contour>
-      <point x="189" y="55"/>
-      <point x="122" y="121"/>
-      <point x="122" y="199" type="curve" smooth="yes"/>
-      <point x="122" y="342"/>
-      <point x="228" y="462"/>
-      <point x="354" y="462" type="curve" smooth="yes"/>
-      <point x="425" y="462"/>
-      <point x="484" y="396"/>
-      <point x="484" y="318" type="curve" smooth="yes"/>
-      <point x="484" y="175"/>
-      <point x="386" y="55"/>
-      <point x="269" y="55" type="curve" smooth="yes"/>
+      <point x="225" y="55" type="curve" smooth="yes"/>
+      <point x="145" y="55"/>
+      <point x="78" y="121"/>
+      <point x="78" y="199" type="curve" smooth="yes"/>
+      <point x="78" y="342"/>
+      <point x="184" y="462"/>
+      <point x="310" y="462" type="curve" smooth="yes"/>
+      <point x="381" y="462"/>
+      <point x="440" y="396"/>
+      <point x="440" y="318" type="curve" smooth="yes"/>
+      <point x="440" y="175"/>
+      <point x="342" y="55"/>
+    </contour>
+    <contour>
+      <point x="83" y="253" type="move" name="_loop_right"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +39,9 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-06 02:28:12 +0000</string>
+      <string>2018-05-26 04:04:48 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

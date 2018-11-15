@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wdieresis" format="1">
-  <advance width="1033"/>
+  <advance width="1013"/>
   <unicode hex="1E84"/>
   <outline>
     <component base="W"/>
-    <component base="dieresis" xOffset="346" yOffset="170"/>
+    <component base="dieresis" xOffset="333" yOffset="170"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:42:00 +0000</string>
+      <string>2018-11-06 14:02:07 +0000</string>
     </dict>
   </lib>
 </glyph>

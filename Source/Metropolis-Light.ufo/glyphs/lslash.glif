@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="269"/>
+  <advance width="272"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="232" y="349" type="line"/>
-      <point x="232" y="390" type="line"/>
-      <point x="37" y="290" type="line"/>
-      <point x="37" y="249" type="line"/>
+      <point x="31" y="249" type="line"/>
+      <point x="226" y="349" type="line"/>
+      <point x="226" y="390" type="line"/>
+      <point x="31" y="290" type="line"/>
     </contour>
-    <component base="l" xOffset="41"/>
+    <component base="l" xOffset="21"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-03 09:48:02 +0000</string>
+      <string>2018-09-01 04:14:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

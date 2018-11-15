@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="1">
-  <advance width="630"/>
+  <advance width="542"/>
   <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="cedilla" xOffset="156"/>
+    <component base="cedilla" xOffset="112"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:42:53 +0000</string>
+      <string>2018-11-06 14:02:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

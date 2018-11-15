@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="514"/>
+  <advance width="456"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="408" y="0" type="line"/>
-      <point x="416" y="36" type="line"/>
-      <point x="56" y="36" type="line"/>
-      <point x="508" y="487" type="line"/>
-      <point x="514" y="517" type="line"/>
-      <point x="114" y="517" type="line"/>
-      <point x="107" y="481" type="line"/>
-      <point x="459" y="481" type="line"/>
-      <point x="6" y="30" type="line"/>
-      <point x="1" y="0" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="385" y="36" type="line"/>
+      <point x="25" y="36" type="line"/>
+      <point x="477" y="487" type="line"/>
+      <point x="483" y="517" type="line"/>
+      <point x="83" y="517" type="line"/>
+      <point x="76" y="481" type="line"/>
+      <point x="428" y="481" type="line"/>
+      <point x="-25" y="30" type="line"/>
     </contour>
     <contour>
-      <point x="313" y="517" type="move" name="top"/>
+      <point x="282" y="517" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:48:18 +0000</string>
+      <string>2018-05-28 05:40:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

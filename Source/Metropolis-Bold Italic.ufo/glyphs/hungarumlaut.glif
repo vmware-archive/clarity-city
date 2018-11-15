@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="1">
-  <advance width="667"/>
+  <advance width="582"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="260" y="574" type="line"/>
-      <point x="440" y="710" type="line"/>
-      <point x="275" y="738" type="line"/>
-      <point x="129" y="574" type="line"/>
+      <point x="85" y="574" type="line"/>
+      <point x="216" y="574" type="line"/>
+      <point x="396" y="710" type="line"/>
+      <point x="231" y="738" type="line"/>
     </contour>
     <contour>
-      <point x="518" y="574" type="line"/>
-      <point x="698" y="710" type="line"/>
-      <point x="533" y="738" type="line"/>
-      <point x="387" y="574" type="line"/>
+      <point x="343" y="574" type="line"/>
+      <point x="474" y="574" type="line"/>
+      <point x="654" y="710" type="line"/>
+      <point x="489" y="738" type="line"/>
     </contour>
     <contour>
-      <point x="427" y="704" type="move" name="top"/>
+      <point x="269" y="517" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="388" y="517" type="move" name="_top"/>
+      <point x="307" y="704" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-03 09:55:48 +0000</string>
+      <string>2018-05-28 05:47:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="675"/>
+  <advance width="686"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="commaaccentcomb" xOffset="765" yOffset="722"/>
+    <component base="commaaccentcomb" xOffset="808" yOffset="722"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:46:16 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -21,6 +19,10 @@
           <string>commaaccentcomb</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-01 04:06:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

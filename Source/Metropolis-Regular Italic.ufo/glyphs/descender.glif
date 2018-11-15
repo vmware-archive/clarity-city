@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="descender" format="1">
-  <advance width="641"/>
+  <advance width="338"/>
   <outline>
     <contour>
-      <point x="69" y="-172" type="line"/>
-      <point x="212" y="517" type="line"/>
-      <point x="137" y="517" type="line"/>
-      <point x="-6" y="-172" type="line"/>
+      <point x="42" y="-172" type="line"/>
+      <point x="117" y="-172" type="line"/>
+      <point x="260" y="517" type="line"/>
+      <point x="185" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="260" type="move" name="loop_left"/>
+    </contour>
+    <contour>
+      <point x="205" y="253" type="move" name="loop_right"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-31 09:27:18 +0000</string>
+      <string>2018-05-25 06:57:52 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemetleft" format="1">
-  <advance width="628"/>
+  <advance width="627"/>
   <unicode hex="00AB"/>
   <outline>
     <component base="guilsinglleft"/>
@@ -9,7 +9,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-06 02:38:13 +0000</string>
+      <string>2018-09-01 04:08:58 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

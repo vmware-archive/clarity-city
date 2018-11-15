@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae_upper" format="1">
+  <advance width="489"/>
+  <outline>
+    <contour>
+      <point x="-51" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="581" y="687" type="line"/>
+      <point x="489" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="156" type="line"/>
+      <point x="448" y="156" type="line"/>
+      <point x="463" y="230" type="line"/>
+      <point x="144" y="230" type="line"/>
+    </contour>
+    <contour>
+      <point x="483" y="687" type="move" name="_ae_upper"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 05:09:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

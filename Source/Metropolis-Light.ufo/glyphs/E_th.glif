@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="777"/>
+  <advance width="796"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="390" y="332" type="line"/>
-      <point x="391" y="368" type="line"/>
-      <point x="42" y="368" type="line"/>
-      <point x="42" y="332" type="line"/>
+      <point x="33" y="332" type="line"/>
+      <point x="381" y="332" type="line"/>
+      <point x="382" y="368" type="line"/>
+      <point x="33" y="368" type="line"/>
     </contour>
-    <component base="D" xOffset="32"/>
+    <component base="D" xOffset="23"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-03 02:02:48 +0000</string>
+      <string>2018-05-28 05:36:35 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

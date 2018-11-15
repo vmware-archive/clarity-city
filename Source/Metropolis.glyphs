@@ -1,13 +1,7 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron ÇDÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent/Edotbelow È/Emacron/Eogonek/Etilde FG/Gbreve/Gcommaaccent HIÍÎÏ/Idotaccent Ì/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lslash MN/Nacute/Ncaron/Ncommaaccent ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla T/Tcaron/Tcedilla UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron çdð/dcaron/dcroat eé/ecaron êë/edotaccent/edotbelow è/emacron/eogonek/etilde fg/gbreve/gcommaaccent hi/idotless íîïì/imacron/iogonek j/jdotless k/kcommaaccent l/lacute/lcaron/lslash mn/nacute/ncaron/ncommaaccent ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla ßt/tcaron/tcedilla uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/a.alt/aacute.alt/abreve.alt/acircumflex.alt/adieresis.alt/agrave.alt/amacron.alt/aogonek.alt/aring.alt/atilde.alt/ae_upper/k_arms/thorn_stem",
-"0123456789.,:;/ellipsis !¡?¿·/bullet *#///backslash (){}[]-/endash/emdash _/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'",
-"¢$/euro £¥+/minus ×÷=><~^%/perthousand @&¶©®/trademark |/dotaccentcomb/commaaccentcomb ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde",
-"¢$/euro £¥"
-);
 copyright = "Copyright © 2016 by Chris Simpson.";
-date = "2016-07-29 23:55:50 +0000";
+date = "2018-11-14 12:57:14 +0000";
 designer = "Chris Simpson";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
 familyName = Metropolis;
@@ -7429,7 +7423,7 @@ unicode = 0156;
 {
 color = 1;
 glyphname = S;
-lastChange = "2018-05-28 05:40:51 +0000";
+lastChange = "2018-11-06 14:10:43 +0000";
 layers = (
 {
 anchors = (
@@ -7457,16 +7451,16 @@ nodes = (
 "149 439 OFFCURVE",
 "149 510 CURVE SMOOTH",
 "149 573 OFFCURVE",
-"211 629 OFFCURVE",
-"296 629 CURVE SMOOTH",
-"368 629 OFFCURVE",
-"436 596 OFFCURVE",
-"493 541 CURVE",
-"541 602 LINE",
-"478 660 OFFCURVE",
-"402 700 OFFCURVE",
-"300 700 CURVE SMOOTH",
-"168 700 OFFCURVE",
+"211 628 OFFCURVE",
+"296 628 CURVE SMOOTH",
+"368 628 OFFCURVE",
+"436 595 OFFCURVE",
+"493 540 CURVE",
+"541 601 LINE",
+"478 659 OFFCURVE",
+"402 699 OFFCURVE",
+"300 699 CURVE SMOOTH",
+"168 699 OFFCURVE",
 "70 614 OFFCURVE",
 "70 504 CURVE SMOOTH",
 "70 385 OFFCURVE",
@@ -7575,16 +7569,16 @@ nodes = (
 "114 441 OFFCURVE",
 "114 507 CURVE SMOOTH",
 "114 599 OFFCURVE",
-"189 664 OFFCURVE",
-"296 664 CURVE SMOOTH",
-"376 664 OFFCURVE",
-"454 631 OFFCURVE",
-"513 574 CURVE",
-"535 602 LINE",
-"468 664 OFFCURVE",
-"382 700 OFFCURVE",
-"298 700 CURVE SMOOTH",
-"169 700 OFFCURVE",
+"189 663 OFFCURVE",
+"296 663 CURVE SMOOTH",
+"376 663 OFFCURVE",
+"454 630 OFFCURVE",
+"513 573 CURVE",
+"535 601 LINE",
+"468 663 OFFCURVE",
+"382 699 OFFCURVE",
+"298 699 CURVE SMOOTH",
+"169 699 OFFCURVE",
 "78 619 OFFCURVE",
 "78 504 CURVE SMOOTH",
 "78 418 OFFCURVE",
@@ -15431,7 +15425,7 @@ unicode = 006E;
 },
 {
 glyphname = nacute;
-lastChange = "2018-09-01 04:14:13 +0000";
+lastChange = "2018-11-06 14:03:27 +0000";
 layers = (
 {
 components = (
@@ -15466,7 +15460,7 @@ name = n;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 231, 0}";
+transform = "{1, 0, 0, 1, 240, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -15596,7 +15590,7 @@ unicode = 0144;
 },
 {
 glyphname = ncaron;
-lastChange = "2018-09-01 04:14:13 +0000";
+lastChange = "2018-11-06 14:03:27 +0000";
 layers = (
 {
 components = (
@@ -15605,7 +15599,7 @@ name = n;
 },
 {
 name = caron;
-transform = "{1, 0, 0, 1, 117, 0}";
+transform = "{1, 0, 0, 1, 126, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -39262,5 +39256,5 @@ tH = "152";
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

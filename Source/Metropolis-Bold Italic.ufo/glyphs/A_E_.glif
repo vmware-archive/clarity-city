@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="1113"/>
+  <advance width="1075"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="175" y="0" type="line"/>
-      <point x="715" y="687" type="line"/>
-      <point x="487" y="687" type="line"/>
-      <point x="-53" y="0" type="line"/>
+      <point x="-35" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="265" y="92" type="line"/>
+      <point x="436" y="92" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="970" y="0" type="line"/>
+      <point x="1006" y="173" type="line"/>
+      <point x="648" y="173" type="line"/>
+      <point x="666" y="264" type="line"/>
+      <point x="993" y="264" type="line"/>
+      <point x="1029" y="437" type="line"/>
+      <point x="703" y="437" type="line"/>
+      <point x="718" y="514" type="line"/>
+      <point x="1077" y="514" type="line"/>
+      <point x="1113" y="687" type="line"/>
+      <point x="505" y="687" type="line"/>
     </contour>
     <contour>
-      <point x="621" y="92" type="line"/>
-      <point x="650" y="235" type="line"/>
-      <point x="231" y="235" type="line"/>
-      <point x="202" y="92" type="line"/>
+      <point x="378" y="235" type="line"/>
+      <point x="498" y="388" type="line"/>
+      <point x="466" y="235" type="line"/>
     </contour>
-    <component base="E" xOffset="462"/>
+    <contour>
+      <point x="698" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-04 22:45:37 +0000</string>
+      <string>2018-05-28 05:24:42 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

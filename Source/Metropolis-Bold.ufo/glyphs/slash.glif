@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="493"/>
+  <advance width="562"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="171" y="-74" type="line"/>
-      <point x="511" y="743" type="line"/>
-      <point x="311" y="743" type="line"/>
-      <point x="-29" y="-74" type="line"/>
+      <point x="11" y="-74" type="line"/>
+      <point x="211" y="-74" type="line"/>
+      <point x="551" y="743" type="line"/>
+      <point x="351" y="743" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 08:44:42 +0000</string>
+      <string>2018-06-01 02:57:40 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

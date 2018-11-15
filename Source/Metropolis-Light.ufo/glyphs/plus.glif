@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="1">
-  <advance width="593"/>
+  <advance width="565"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="526" y="316" type="line"/>
-      <point x="526" y="352" type="line"/>
-      <point x="67" y="352" type="line"/>
-      <point x="67" y="316" type="line"/>
+      <point x="53" y="316" type="line"/>
+      <point x="512" y="316" type="line"/>
+      <point x="512" y="352" type="line"/>
+      <point x="53" y="352" type="line"/>
     </contour>
     <contour>
-      <point x="315" y="105" type="line"/>
-      <point x="315" y="564" type="line"/>
-      <point x="279" y="564" type="line"/>
-      <point x="279" y="105" type="line"/>
+      <point x="265" y="105" type="line"/>
+      <point x="301" y="105" type="line"/>
+      <point x="301" y="564" type="line"/>
+      <point x="265" y="564" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:20:30 +0000</string>
+      <string>2018-06-01 03:32:03 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

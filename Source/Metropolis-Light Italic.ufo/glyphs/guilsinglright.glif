@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="1">
-  <advance width="278"/>
+  <advance width="277"/>
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="238" y="249" type="line"/>
-      <point x="110" y="442" type="line"/>
-      <point x="84" y="437" type="line"/>
-      <point x="206" y="249" type="line"/>
-      <point x="4" y="60" type="line"/>
-      <point x="31" y="55" type="line"/>
+      <point x="37" y="55" type="line"/>
+      <point x="244" y="249" type="line"/>
+      <point x="116" y="442" type="line"/>
+      <point x="90" y="437" type="line"/>
+      <point x="212" y="249" type="line"/>
+      <point x="10" y="60" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-06 02:28:27 +0000</string>
+      <string>2018-06-01 03:21:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

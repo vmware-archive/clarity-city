@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="632"/>
+  <advance width="723"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="544" y="131" type="line"/>
-      <point x="544" y="167" type="line"/>
-      <point x="88" y="167" type="line"/>
-      <point x="88" y="131" type="line"/>
+      <point x="135" y="131" type="line"/>
+      <point x="591" y="131" type="line"/>
+      <point x="591" y="167" type="line"/>
+      <point x="135" y="167" type="line"/>
     </contour>
     <contour>
-      <point x="544" y="278" type="line"/>
-      <point x="544" y="314" type="line"/>
-      <point x="88" y="314" type="line"/>
-      <point x="88" y="278" type="line"/>
+      <point x="135" y="278" type="line"/>
+      <point x="591" y="278" type="line"/>
+      <point x="591" y="314" type="line"/>
+      <point x="135" y="314" type="line"/>
     </contour>
-    <component base="Y"/>
+    <component base="Y" xOffset="60"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:25:02 +0000</string>
+      <string>2018-09-01 04:09:18 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

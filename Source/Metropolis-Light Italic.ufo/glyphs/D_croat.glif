@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcroat" format="1">
-  <advance width="777"/>
+  <advance width="851"/>
   <unicode hex="0110"/>
   <outline>
     <component base="Eth"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-31 09:13:45 +0000</string>
+    </dict>
+  </lib>
 </glyph>

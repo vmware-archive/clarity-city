@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ascender" format="1">
-  <advance width="641"/>
+  <advance width="250"/>
   <outline>
     <contour>
-      <point x="105" y="0" type="line"/>
-      <point x="250" y="699" type="line"/>
-      <point x="175" y="699" type="line"/>
-      <point x="30" y="0" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="254" y="699" type="line"/>
+      <point x="179" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="127" type="move" name="k_arms"/>
+    </contour>
+    <contour>
+      <point x="88" y="260" type="move" name="loop_left"/>
+    </contour>
+    <contour>
+      <point x="161" y="253" type="move" name="loop_right"/>
+    </contour>
+    <contour>
+      <point x="176" y="326" type="move" name="shoulder"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-31 09:31:15 +0000</string>
+      <string>2018-05-25 06:43:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

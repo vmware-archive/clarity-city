@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="243"/>
+  <advance width="314"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="84" y="-65"/>
-      <point x="113" y="-17"/>
-      <point x="113" y="18" type="curve" smooth="yes"/>
-      <point x="113" y="37"/>
-      <point x="102" y="48"/>
-      <point x="85" y="48" type="curve" smooth="yes"/>
-      <point x="66" y="48"/>
-      <point x="51" y="32"/>
-      <point x="51" y="13" type="curve" smooth="yes"/>
-      <point x="51" y="-2"/>
-      <point x="61" y="-11"/>
-      <point x="77" y="-11" type="curve"/>
-      <point x="63" y="-39"/>
-      <point x="36" y="-73"/>
-      <point x="4" y="-103" type="curve"/>
-      <point x="28" y="-124" type="line"/>
+      <point x="61" y="-124" type="line"/>
+      <point x="117" y="-65"/>
+      <point x="146" y="-17"/>
+      <point x="146" y="18" type="curve" smooth="yes"/>
+      <point x="146" y="37"/>
+      <point x="135" y="48"/>
+      <point x="118" y="48" type="curve" smooth="yes"/>
+      <point x="99" y="48"/>
+      <point x="84" y="32"/>
+      <point x="84" y="13" type="curve" smooth="yes"/>
+      <point x="84" y="-2"/>
+      <point x="94" y="-11"/>
+      <point x="110" y="-11" type="curve"/>
+      <point x="96" y="-39"/>
+      <point x="69" y="-73"/>
+      <point x="37" y="-103" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 09:16:25 +0000</string>
+      <string>2018-05-30 02:40:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

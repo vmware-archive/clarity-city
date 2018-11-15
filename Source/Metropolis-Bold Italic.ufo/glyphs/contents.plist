@@ -238,6 +238,8 @@
 	<string>adieresis.alt.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
+	<key>ae_upper</key>
+	<string>ae_upper.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>agrave.alt</key>
@@ -292,6 +294,8 @@
 	<string>c.glif</string>
 	<key>cacute</key>
 	<string>cacute.glif</string>
+	<key>capital_V</key>
+	<string>capital_V_.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>ccaron</key>
@@ -310,6 +314,8 @@
 	<string>comma.glif</string>
 	<key>commaaccentcomb</key>
 	<string>commaaccentcomb.glif</string>
+	<key>copyright</key>
+	<string>copyright.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>dcaron</key>
@@ -326,6 +332,8 @@
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
+	<key>dotaccentcomb</key>
+	<string>dotaccentcomb.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -426,6 +434,8 @@
 	<string>jdotless.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>k_arms</key>
+	<string>k_arms.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
 	<key>l</key>
@@ -440,8 +450,12 @@
 	<string>lowercase_loop.glif</string>
 	<key>lowercase_loop_reverse</key>
 	<string>lowercase_loop_reverse.glif</string>
+	<key>lowercase_m_shoulder</key>
+	<string>lowercase_m_shoulder.glif</string>
 	<key>lowercase_nh_shoulder</key>
 	<string>lowercase_nh_shoulder.glif</string>
+	<key>lowercase_r_shoulder</key>
+	<string>lowercase_r_shoulder.glif</string>
 	<key>lslash</key>
 	<string>lslash.glif</string>
 	<key>m</key>
@@ -518,6 +532,8 @@
 	<string>questiondown.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
+	<key>quotedblbase</key>
+	<string>quotedblbase.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
 	<key>quotedblright</key>
@@ -536,6 +552,8 @@
 	<string>rcaron.glif</string>
 	<key>rcommaaccent</key>
 	<string>rcommaaccent.glif</string>
+	<key>registered</key>
+	<string>registered.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>s</key>
@@ -568,12 +586,16 @@
 	<string>tcedilla.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
+	<key>thorn_stem</key>
+	<string>thorn_stem.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>threeperemspace</key>
 	<string>threeperemspace.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>trademark</key>
+	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>

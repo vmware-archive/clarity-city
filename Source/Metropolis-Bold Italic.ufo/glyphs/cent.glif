@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="556"/>
+  <advance width="622"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="294" y="-74" type="line"/>
-      <point x="432" y="589" type="line"/>
-      <point x="322" y="589" type="line"/>
-      <point x="184" y="-74" type="line"/>
+      <point x="235" y="-74" type="line"/>
+      <point x="345" y="-74" type="line"/>
+      <point x="483" y="589" type="line"/>
+      <point x="373" y="589" type="line"/>
     </contour>
-    <component base="c"/>
+    <component base="c" xOffset="51"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:41:03 +0000</string>
+      <string>2018-09-01 04:10:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

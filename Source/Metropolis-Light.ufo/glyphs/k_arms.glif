@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_arms" format="1">
+  <advance width="393"/>
+  <outline>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="155" y="280" type="line"/>
+      <point x="387" y="517" type="line"/>
+      <point x="337" y="517" type="line"/>
+      <point x="3" y="177" type="line"/>
+      <point x="3" y="125" type="line"/>
+      <point x="130" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="125" type="move" name="k_arms"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 05:09:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

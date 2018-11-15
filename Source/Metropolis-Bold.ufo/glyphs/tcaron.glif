@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="416"/>
+  <advance width="598"/>
   <unicode hex="0165"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccentcomb" xOffset="358" yOffset="722"/>
+    <component base="commaaccentcomb" xOffset="404" yOffset="722"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:47:48 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
@@ -21,6 +27,10 @@
           <string>commaaccentcomb</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-01 04:14:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

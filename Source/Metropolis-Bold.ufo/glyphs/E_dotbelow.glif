@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotbelow" format="1">
-  <advance width="651"/>
+  <advance width="682"/>
   <unicode hex="1EB8"/>
   <outline>
     <component base="E"/>
-    <component base="dotaccent" xOffset="188" yOffset="-812"/>
+    <component base="dotaccent" xOffset="210" yOffset="-812"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 09:46:17 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
@@ -21,6 +27,10 @@
           <string>dotaccent</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-28 05:36:44 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

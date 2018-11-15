@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="738"/>
+  <advance width="621"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="106" y="687" type="line"/>
-      <point x="324" y="687" type="line"/>
-      <point x="667" y="0" type="line"/>
-      <point x="449" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="47" y="687" type="line"/>
+      <point x="265" y="687" type="line"/>
+      <point x="608" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="583" y="687" type="line"/>
-      <point x="823" y="687" type="line"/>
-      <point x="190" y="0" type="line"/>
-      <point x="-50" y="0" type="line"/>
+      <point x="-109" y="0" type="line"/>
+      <point x="524" y="687" type="line"/>
+      <point x="764" y="687" type="line"/>
+      <point x="131" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:42:06 +0000</string>
+      <string>2018-05-28 05:40:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

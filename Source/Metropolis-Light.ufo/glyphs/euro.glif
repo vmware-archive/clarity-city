@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="euro" format="1">
-  <advance width="680"/>
+  <advance width="825"/>
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="472" y="252" type="line"/>
-      <point x="472" y="288" type="line"/>
-      <point x="-24" y="288" type="line"/>
-      <point x="-24" y="252" type="line"/>
+      <point x="74" y="252" type="line"/>
+      <point x="570" y="252" type="line"/>
+      <point x="570" y="288" type="line"/>
+      <point x="74" y="288" type="line"/>
     </contour>
     <contour>
-      <point x="472" y="419" type="line"/>
-      <point x="472" y="455" type="line"/>
-      <point x="-24" y="455" type="line"/>
-      <point x="-24" y="419" type="line"/>
+      <point x="74" y="419" type="line"/>
+      <point x="570" y="419" type="line"/>
+      <point x="570" y="455" type="line"/>
+      <point x="74" y="455" type="line"/>
     </contour>
-    <component base="C"/>
+    <component base="C" xOffset="98"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:42:13 +0000</string>
+      <string>2018-09-01 04:09:18 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>
