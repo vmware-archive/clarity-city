@@ -1,10 +1,10 @@
 {
-.appVersion = "1141";
-copyright = "Copyright © 2016 by Chris Simpson.";
-date = "2018-11-14 12:57:14 +0000";
-designer = "Chris Simpson";
-designerURL = "https://github.com/chrismsimpson/Metropolis";
-familyName = Metropolis;
+.appVersion = "1233";
+copyright = "Copyright (c) 2019 VMware, Inc.	";
+date = "2019-04-25 15:17:33 +0000";
+designer = VMware;
+designerURL = "https://github.com/vmware/clarity-city";
+familyName = "Clarity City";
 fontMaster = (
 {
 alignmentZones = (
@@ -39183,8 +39183,8 @@ name = Black;
 weightClass = Black;
 }
 );
-manufacturer = "Victory One Media Pty Ltd";
-manufacturerURL = "http://victoryonemedia.com";
+manufacturer = "Chris Simpson";
+manufacturerURL = "https://github.com/chrismsimpson";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
@@ -39256,5 +39256,5 @@ tH = "152";
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 0;
 }
