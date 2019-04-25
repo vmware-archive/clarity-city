@@ -1,0 +1,6 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+Source export-ignore
+clarity-city.png export-ignore
+CODE-OF-CONDUCT.md export-ignore
+CONTRIBUTING.md export-ignore
