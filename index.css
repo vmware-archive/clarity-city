@@ -1,0 +1,40 @@
+/* Copyright (c) 2016-2019 VMware, Inc. All Rights Reserved.
+ * This software is released under SIL OFL v1.1 license.
+ * The full license information can be found in LICENSE in the root directory of this project.
+ */
+
+/* Clarity City Thin: 100 */
+@import url('./css/thin.css');
+@import url('./css/thin-italic.css');
+
+/* Clarity City Extra Light: 200 */
+@import url('./css/extra-light.css');
+@import url('./css/extra-light-italic.css');
+
+/* Clarity City Light: 300 */
+@import url('./css/light.css');
+@import url('./css/light-italic.css');
+
+/* Clarity City Regular: 400 */
+@import url('./css/regular.css');
+@import url('./css/regular-italic.css');
+
+/* Clarity City Medium: 500 */
+@import url('./css/medium.css');
+@import url('./css/medium-italic.css');
+
+/* Clarity City Semibold: 600 */
+@import url('./css/semibold.css');
+@import url('./css/semibold-italic.css');
+
+/* Clarity City Bold: 700 */
+@import url('./css/bold.css');
+@import url('./css/bold-italic.css');
+
+/* Clarity City Extra Bold: 800 */
+@import url('./css/extra-bold.css');
+@import url('./css/extra-bold-italic.css');
+
+/* Clarity City Black: 900 */
+@import url('./css/black.css');
+@import url('./css/black-italic.css');

@@ -1,0 +1,23 @@
+{
+  "name": "@clr/city",
+  "version": "1.0.0",
+  "description": "Clarity City Typeface",
+  "main": "css/index.css",
+  "repository": "https://github.com/vmware/clarity-city.git",
+  "scripts": {
+    "archive": "git archive --format zip -o Clarity-City.zip master"
+  },
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "clarity",
+    "clarity city"
+  ],
+  "author": "clarity",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/vmware/clarity-city/issues"
+  },
+  "homepage": "https://github.com/vmware/clarity-city#readme"
+}
